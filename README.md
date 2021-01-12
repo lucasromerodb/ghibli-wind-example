@@ -1,3 +1,4 @@
+# [DOWNLOAD HERE ✨](https://github.com/lucasromerodb/ghibli-wind-example/raw/main/ghibli_wind_scene_example.blend)
 # Ghibli wind scene example
 ![Example file](example.png)
 
