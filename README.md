@@ -3,4 +3,12 @@
 
 # Ghibli wind scene example
 ![Example file](example.png)
+
+![Grass shader](grass_shader.png)
+> Grass shader
+
+![Cloud shader](cloud_shader.png)
+> Cloud shader
+
 ![Original render](render.png)
+> Original render
